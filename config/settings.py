@@ -41,9 +41,9 @@ INSTALLED_APPS = [
     'rest_framework',
     # Local Apps
     'users',
-    'tasks',
     'reminders',
     'categories',
+    'tasks',
 
 ]
 
